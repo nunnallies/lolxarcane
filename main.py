@@ -14,7 +14,7 @@ from utils.databaseUtils import *
 
 mysqlconn=createConnectionToDb()
 REFDATE="1970-01-01"
-key="RGAPI-873efea6-5ee2-4b80-a0e0-42919428ad35"
+key="key"
 baseRegionUrl="https://europe.api.riotgames.com"
 baseRegionUrl2="https://euw1.api.riotgames.com"
 gameName="Denkipez"
